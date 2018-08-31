@@ -5,6 +5,6 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-expot class AppComponent {
+export class AppComponent {
   name = 'Amarjit';
 }
